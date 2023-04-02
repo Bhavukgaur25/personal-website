@@ -20,4 +20,10 @@ IN THIS I WILL WRITE THE NOTES
    add-->  it means you are adding a new url
    origin--> name of url going to be
 
+13 git remote -v --> we got to know how many url(links) attached to that folder
+14 git push origin master --> push krdega git pe jo bhi present h
+   master--> branch h
+   origin--> url ka nam
+   push--> simply push it
+
 
