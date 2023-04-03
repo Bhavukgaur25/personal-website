@@ -25,5 +25,37 @@ IN THIS I WILL WRITE THE NOTES
    master--> branch h
    origin--> url ka nam
    push--> simply push it
+ 
+
+
+ 		LETS SEE HOW TO WORK WITH EXISTING PROJECTS IN GITHUB
+
+--> USE FORK --> THIS MADE A COPY OF THAT PROJECT WHICH YOU CAN EDIT / CODE
+15 git clone __url --> this basically download that folder into main
+16 git add upstream url_ --> upstream branch me add kr diya
+
+                  TO MAKE NEW BRANCH
+17 git branch bhavuk
+18 git checkout bhavuk --> it means the head is now move on bhavuk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
